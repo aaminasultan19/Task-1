@@ -25,10 +25,10 @@ Discover open ports on local devices to understand network exposure using Nmap.
 | Figure | Description                                           | Screenshot |
 |--------|-------------------------------------------------------|------------|
 | 1      | Launching `netdiscover` from Kali                     | ![Figure 1](screenshots/netdiscover-start.png) |
-| 2      | `netdiscover` reveals Metasploitable IP               | ![Figure 2](screenshots/figure2_netdiscover_ip.png)     |
-| 3      | Confirming IP address from inside Metasploitable      | ![Figure 3](screenshots/figure3_ifconfig_metasploitable.png) |
-| 4      | Nmap scan being performed from Kali                   | ![Figure 4](screenshots/figure4_nmap_scan.png)          |
-| 5      | Viewing saved scan result file using `cat`            | ![Figure 5](screenshots/figure5_cat_scan_result.png)    |
+| 2      | `netdiscover` reveals Metasploitable IP               | ![Figure 2](screenshots/netdiscover-output.png)     |
+| 3      | Confirming IP address from inside Metasploitable      | ![Figure 3](screenshots/ifconfig.png) |
+| 4      | Nmap scan being performed from Kali                   | ![Figure 4](screenshots/nmap-scan.png)          |
+| 5      | Viewing saved scan result file using `cat`            | ![Figure 5](screenshots/scan-output.png)    |
 
 
 ## Nmap Scan Result Summary
