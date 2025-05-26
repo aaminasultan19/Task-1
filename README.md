@@ -1,13 +1,14 @@
 ##  Task 1: Network Reconnaissance with Nmap
 
 ###  Objective  
-Discover open ports on local devices to understand network exposure using Nmap.
+Use Nmap to discover open ports on the Metasploitable VM, helping identify potential network services and vulnerabilities.
 
-###  Tools Used
-- Kali Linux
-- Metasploitable2 (Target)
-- Nmap
-- netdiscover
+### Tools Used
+- **Kali Linux** – Attacker machine used for scanning and enumeration.
+- **Metasploitable2** – Vulnerable target machine used for testing.
+- **Nmap** – Network scanner used to discover open ports and services.
+- **Netdiscover** – Tool used to identify live hosts on the local network.
+
 
 ###  Steps Performed
 
